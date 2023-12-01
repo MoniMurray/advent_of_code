@@ -41,4 +41,3 @@ star_1 = sum(input_str_calibration_value)
 print(star_1)
 
 
-
